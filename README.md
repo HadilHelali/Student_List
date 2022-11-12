@@ -14,7 +14,7 @@ This is a simple application where you can filter a list of students according t
     <td><img src="./ScreenShot1.jpg" width=270 height=480></td>
     <td><img src="./ScreenShot2.jpg" width=270 height=480></td>
     <td><img src="./ScreenShot3.jpg" width=270 height=480></td>
-    <td><img src="./Demo.gif" height=480></td>
+    <td><img src="./Demo.gif" width=270 height=480></td>
     
   </tr>
  </table>
