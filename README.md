@@ -3,7 +3,7 @@ This is a simple application where you can filter a list of students according t
 
 # Screenshots and Demo
 
-<table>
+<table align="center">
   <tr>
     <td>First Screen Page</td>
      <td>Filter</td>
