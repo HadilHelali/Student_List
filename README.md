@@ -6,8 +6,8 @@ This is a simple application where you can filter a list of students according t
 <table>
   <tr>
     <td>First Screen Page</td>
-     <td>Search </td>
      <td>Filter</td>
+     <td>Search </td>
      <td>Demo</td>
   </tr>
   <tr>
